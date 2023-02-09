@@ -230,6 +230,69 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Window_Popup
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 2354
+        width: 789
+        height: 616
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c9ca30d4baa38468217816ee79272f
+      internalID: 197007561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_result
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 259
+        width: 711
+        height: 791
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46120d55ff7de3346ac33daa7c37d8b4
+      internalID: 1608740210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_3Star
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 31
+        width: 511
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49551b5b34f7acd4ebd1c09c91ad673c
+      internalID: -369145992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline:
     - - {x: 261, y: -1196}
       - {x: 276, y: -325}
@@ -11610,10 +11673,13 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Window_LevelSelect: 594938694
+      Window_result: 1608740210
+      Window_Popup: 197007561
       MainMenu: 1573435827
       Window_StarBox: -1069755256
       Banner: 1746494320
       Heat: -1030124590
+      Window_3Star: -369145992
       Star: -1219628126
   spritePackingTag: 
   pSDRemoveMatte: 0
